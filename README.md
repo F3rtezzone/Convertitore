@@ -1,7 +1,4 @@
 # Convertitore
-Applicazione per convertire unità di misura (lunghezza, massa, velocità, forza, temperatura, potenza) su macOS e Windows.
-
-# Convertitore
 
 Applicazione grafica per convertire unità di misura su macOS e Windows.  
 Supporta le seguenti categorie: lunghezza, massa, velocità, forza, temperatura e potenza.
