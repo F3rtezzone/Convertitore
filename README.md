@@ -27,13 +27,13 @@
 
 ### Windows
 
-1. Scarica l'installer `.exe` dalla sezione [Releases](#).  
+1. Scarica l'installer `.exe` dalla sezione [Releases](https://github.com/F3rtezzone/Convertitore/releases/tag/v2).  
 2. Esegui l'installer e segui le istruzioni.  
 3. L'app sarà installata nella cartella `Program Files\Convertitore`.
 
 ### macOS
 
-1. Scarica il file `.dmg` dalla sezione [Releases](#).  
+1. Scarica il file `.dmg` dalla sezione [Releases](https://github.com/F3rtezzone/Convertitore/releases/tag/v2).  
 2. Apri il `.dmg` e trascina l'app nella cartella `Applicazioni`.  
 3. Se il Mac mostra un avviso “Applicazione non verificata”, clicca con il tasto destro → Apri → Apri comunque.
 
