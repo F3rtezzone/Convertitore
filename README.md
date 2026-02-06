@@ -1,29 +1,51 @@
-# Convertitore
+# Convertitore - Versione 2.0
 
-Applicazione grafica per convertire unità di misura su macOS e Windows.  
-Supporta le seguenti categorie: lunghezza, massa, velocità, forza, temperatura e potenza.
+**Convertitore** è un'applicazione multipiattaforma (Windows e macOS) per convertire unità di misura in modo semplice e veloce.
 
-## Funzionalità
+---
 
-- Conversioni rapide tra unità comuni.
-- Interfaccia grafica semplice e “Apple-like” su macOS.
-- Supporto Windows con icona personalizzata.
-- Possibilità di creare DMG (macOS) o EXE (Windows) direttamente dai sorgenti.
+## Caratteristiche principali
 
-## Codice sorgente
+- Interfaccia grafica moderna e intuitiva.
+- Pagina iniziale con tutte le categorie di conversione:  
+  - Lunghezza  
+  - Massa  
+  - Forza  
+  - Velocità  
+  - Potenza  
+  - Temperatura  
+  - Altre unità aggiuntive
+- Navigazione tra le categorie con pulsante “Indietro”.
+- Risultati chiari e immediati.
+- Prestazioni ottimizzate per un avvio più rapido.
+- Compatibilità macOS (Intel e Silicon) e Windows (x64).
+- Facile da installare tramite installer per Windows e DMG per macOS.
 
-Il codice sorgente è incluso nel repository:
+---
 
-- `gui.py` → interfaccia grafica
-- `unit_converter.py` → modulo di conversione delle unità
+## Installazione
 
-### Requisiti per eseguire da sorgente
+### Windows
 
-- Python 3.13+
-- Tkinter (incluso in Python)
-- PyInstaller (opzionale, per creare eseguibili)
+1. Scarica l'installer `.exe` dalla sezione [Releases](#).  
+2. Esegui l'installer e segui le istruzioni.  
+3. L'app sarà installata nella cartella `Program Files\Convertitore`.
 
-### Esecuzione
+### macOS
 
-```bash
-python gui.py
+1. Scarica il file `.dmg` dalla sezione [Releases](#).  
+2. Apri il `.dmg` e trascina l'app nella cartella `Applicazioni`.  
+3. Se il Mac mostra un avviso “Applicazione non verificata”, clicca con il tasto destro → Apri → Apri comunque.
+
+---
+
+## Licenza
+
+Questo progetto è rilasciato sotto **MIT License**.  
+Puoi usarlo, modificarlo e ridistribuirlo liberamente rispettando la licenza.
+
+---
+
+## Contatti
+
+Per problemi, suggerimenti o contributi, apri un issue su GitHub oppure visita questo [sito](https://lorismenon.it/#contatti).
