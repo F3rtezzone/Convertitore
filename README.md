@@ -37,6 +37,16 @@
 2. Apri il `.dmg` e trascina l'app nella cartella `Applicazioni`.  
 3. Se il Mac mostra un avviso “Applicazione non verificata”, clicca con il tasto destro → Apri → Apri comunque.
 
+### Metodo alternativo
+
+1. Impostazioni di Sistema
+2. Privacy e Sicurezza
+3. In basso vedrai:
+
+“Convertitore è stato bloccato perché proviene da uno sviluppatore non identificato”
+
+Clicca Apri comunque
+
 ---
 
 ## Licenza
